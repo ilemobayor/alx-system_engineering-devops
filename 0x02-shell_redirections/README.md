@@ -1,1 +1,1 @@
-Display the content of a file
+Write a script that displays a confused smiley
