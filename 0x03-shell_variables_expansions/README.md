@@ -1,1 +1,1 @@
-print local and global var
+create a new local var
