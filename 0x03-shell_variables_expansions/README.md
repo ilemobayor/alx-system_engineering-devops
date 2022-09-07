@@ -1,1 +1,1 @@
-binary
+lower case
