@@ -1,1 +1,1 @@
-Decimal
+print local n global env
